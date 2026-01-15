@@ -1,0 +1,7 @@
+I am changes from angelas branch
+
+git checkout -b branchname 
+   command to create a new branch
+
+git checkout branchname
+   command to switch a branch
